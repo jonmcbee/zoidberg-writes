@@ -9,7 +9,7 @@ baseurl: "/zoidberg-writes"
 collections:
   dreams:
     output: true
-    permalink: /dreams/:title/
+    permalink: /dreams/:name/
 
 # Build settings
 future: true
